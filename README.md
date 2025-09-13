@@ -4,3 +4,6 @@
 
 🔗 **Acesse o projeto publicado aqui:**  
 [Currículo Online](https://luana-brito-p.github.io/Basic-Html-Website/)
+
+📖 **Desafio no Roadmap:**
+https://roadmap.sh/projects/single-page-cv
